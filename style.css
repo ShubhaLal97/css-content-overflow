@@ -1,0 +1,10 @@
+#overflow-img {
+    width: 500px;
+    height: 500px;
+
+}
+#overflow-div {
+    width: 400px;
+    height: 400px;
+    overflow: auto;
+}
